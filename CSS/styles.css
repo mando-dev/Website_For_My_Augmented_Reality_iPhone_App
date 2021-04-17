@@ -1,0 +1,42 @@
+
+/**************************TAG SELECTORS********************/
+body {
+    background-color: #ffe8df;
+     }
+hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+   }
+h1{
+    color: lightcoral;
+   }
+
+h3 {
+    color: #fc7e2f;
+
+   }
+   /**************************CLASS SELECTORS********************/
+
+   .apple { 
+       border-style: double;
+}
+
+.android {
+    border-style: dotted;
+}
+
+
+
+.circular {
+    border-radius: 100%;
+}
+
+   /**************************ID SELECTORS********************/
+#heading:hover {
+    color: blue;
+}
